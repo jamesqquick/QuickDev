@@ -52,6 +52,7 @@ namespace Xamarin_Part1
 					Children = { Title, Subtitle, LoveButton, LoveLabel }
 				};
 				Content = stack;
+			this.Padding = new Thickness (0,Device.OnPlatform (20, 0, 0), 0, 0);
 			}
 
 			private void LoveButton_Clicked1(object sender, EventArgs e)
