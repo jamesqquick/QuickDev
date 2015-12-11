@@ -23,7 +23,7 @@ Then, open up Xamarin-Part1->Xamarin-Part1.sln in either Visual Studio or Xamari
 
 
 ## **Other Resources**
-1. Xamarin Part 1 - Intro (https://github.com/jamesqquick/QuickDev/tree/master/Xamarin-Part)1x
+1. Xamarin Part 1 - Intro (https://github.com/jamesqquick/QuickDev/tree/master/Xamarin-Part1)
 2. Xamarin Forms - (https://xamarin.com/forms)
 
 
