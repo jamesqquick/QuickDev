@@ -1,6 +1,6 @@
 **Quick Dev**
 ======
-**README-template** is a series dedicated to saving you, the developer, time in your day.  Developer time is limited and expensive, so the goal here is to show tools, strategies, etc. that can save you time focused on Mobile Apps, the Cloud, etc.
+**Quick Dev** is a series dedicated to saving you, the developer, time in your day.  Developer time is limited and expensive, so the goal here is to show tools, strategies, etc. that can save you time focused on Mobile Apps, the Cloud, etc.
 
 ## **Technology**
 
