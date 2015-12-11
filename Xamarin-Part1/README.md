@@ -19,8 +19,13 @@ Then, open up Xamarin-Part1->Xamarin-Part1.sln in either Visual Studio or Xamari
  3. Xamarin Studio
  4. Android, IOS, and Windows
 
+## **Screenshots**
 
 
+Windows Phone               |  Android
+:-------------------------:|:-------------------------:
+![](https://lh3.googleusercontent.com/-Q4zX3wFMT9g/Vmr75kUFQcI/AAAAAAAAAJk/pzfTqEzw5ps/s0/XamarinPart1-1.PNG)  |  ![](https://lh3.googleusercontent.com/-JqQBOfFtfrc/Vmr8oKjOgXI/AAAAAAAAAJw/nNik8uuxfms/s0/XamarinPart1-2.PNG)
+ 
 
 ## **Other Resources**
 1. Xamarin Part 1 - Intro (https://github.com/jamesqquick/QuickDev/tree/master/Xamarin-Part1)
@@ -35,5 +40,3 @@ Then, open up Xamarin-Part1->Xamarin-Part1.sln in either Visual Studio or Xamari
 
 
 > Written with [StackEdit](https://stackedit.io/).
-
-
