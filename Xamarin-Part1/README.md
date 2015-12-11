@@ -1,6 +1,6 @@
-**Quick Dev**
+**Xamarin - Part 1**
 ======
-**Xamarin - Part 1** This sample corresponsds to the very first episode of Quick Dev, where we dive into Xamarin, a toold used to build cross platform mobile applications by sharing code and using C#.  This is amazing because a developer no longer has to know 3 different languages, IDEs, etc. to be able to target Android, IOS, and Windows.  Xamarin is a paid product, but free for students.  It can be used on Windows using Visual Studio or in Xamarin Studio on Mac or Windows.
+ This sample corresponsds to the very first episode of Quick Dev, where we dive into Xamarin, a toold used to build cross platform mobile applications by sharing code and using C#.  This is amazing because a developer no longer has to know 3 different languages, IDEs, etc. to be able to target Android, IOS, and Windows.  Xamarin is a paid product, but free for students.  It can be used on Windows using Visual Studio or in Xamarin Studio on Mac or Windows.
 
 This first sample represents a Hello World intro to Xamarin.Forms which allows UI code to be shared.  This sample uses C# to create the UI instead of XAML, but nonetheless, all of the code in this sample is 100% shared.
 
