@@ -22,9 +22,9 @@ Then, open up Xamarin-Part1->Xamarin-Part1.sln in either Visual Studio or Xamari
 ## **Screenshots**
 
 
-Windows Phone               |  Android
-:-------------------------:|:-------------------------:
-![](https://lh3.googleusercontent.com/-Q4zX3wFMT9g/Vmr75kUFQcI/AAAAAAAAAJk/pzfTqEzw5ps/s0/XamarinPart1-1.PNG)  |  ![](https://lh3.googleusercontent.com/-JqQBOfFtfrc/Vmr8oKjOgXI/AAAAAAAAAJw/nNik8uuxfms/s0/XamarinPart1-2.PNG)
+Windows Phone               |  Android                |   IOS
+:-------------------------:|:-------------------------:|:-------------------------:
+![](https://lh3.googleusercontent.com/-Q4zX3wFMT9g/Vmr75kUFQcI/AAAAAAAAAJk/pzfTqEzw5ps/s0/XamarinPart1-1.PNG)  |  ![](https://lh3.googleusercontent.com/-JqQBOfFtfrc/Vmr8oKjOgXI/AAAAAAAAAJw/nNik8uuxfms/s0/XamarinPart1-2.PNG)  |  ![ ](https://raw.githubusercontent.com/jamesqquick/QuickDev/master/Screenshots/Xamarin1-IOS.png)
  
 
 ## **Other Resources**
