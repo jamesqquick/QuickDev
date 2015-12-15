@@ -27,7 +27,7 @@ Then, open up XamarinPart2->Xamarin-Part2.sln in either Visual Studio or Xamarin
 
 Windows Phone               |  Android                |   IOS
 :-------------------------:|:-------------------------:|:-------------------------:
-![](https://lh3.googleusercontent.com/-Q4zX3wFMT9g/Vmr75kUFQcI/AAAAAAAAAJk/pzfTqEzw5ps/s0/XamarinPart1-1.PNG)  |  ![](https://raw.githubusercontent.com/jamesqquick/QuickDev/master/Screenshots/Xamarin2-Android.png)  |  ![ ](https://raw.githubusercontent.com/jamesqquick/QuickDev/master/Screenshots/Xamarin2-IOS.png)
+![](https://raw.githubusercontent.com/jamesqquick/QuickDev/master/Screenshots/Xamarin2-WindowsPhone.PNG)  |  ![](https://raw.githubusercontent.com/jamesqquick/QuickDev/master/Screenshots/Xamarin2-Android.png)  |  ![ ](https://raw.githubusercontent.com/jamesqquick/QuickDev/master/Screenshots/Xamarin2-IOS.png)
  
 
 ## **Other Resources**
