@@ -1,8 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Paths>
   <Jars></Jars>
-  <ResolvedResourceDirectories />
-  <ResolvedAssetDirectories />
+  <ResolvedResourceDirectories>
+    <ResolvedResourceDirectory>/Users/jamesquick/Documents/Github/QuickDev/XamarinPart2/Droid/obj/Debug/__library_projects__/Xamarin.Insights/library_project_imports/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/jamesquick/Documents/Github/QuickDev/XamarinPart2/Droid/obj/Debug/__library_projects__/Xamarin.Forms.Platform.Android/library_project_imports/res</ResolvedResourceDirectory>
+  </ResolvedResourceDirectories>
+  <ResolvedAssetDirectories>
+    <ResolvedAssetDirectory>/Users/jamesquick/Documents/Github/QuickDev/XamarinPart2/Droid/obj/Debug/__library_projects__/Xamarin.Insights/library_project_imports/assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>/Users/jamesquick/Documents/Github/QuickDev/XamarinPart2/Droid/obj/Debug/__library_projects__/Xamarin.Forms.Platform.Android/library_project_imports/assets</ResolvedAssetDirectory>
+  </ResolvedAssetDirectories>
   <ResolvedEnvironmentFiles />
-  <ResolvedResourceDirectoryStamps />
+  <ResolvedResourceDirectoryStamps>
+    <ResolvedResourceDirectoryStamp>/Users/jamesquick/Documents/Github/QuickDev/XamarinPart2/Droid/obj/Debug/__library_projects__/Xamarin.Insights.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/jamesquick/Documents/Github/QuickDev/XamarinPart2/Droid/obj/Debug/__library_projects__/Xamarin.Forms.Platform.Android.stamp</ResolvedResourceDirectoryStamp>
+  </ResolvedResourceDirectoryStamps>
 </Paths>
