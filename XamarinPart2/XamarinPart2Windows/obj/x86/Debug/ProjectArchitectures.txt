@@ -1,0 +1,1 @@
+C:\Users\jaquick\Documents\GitHub\QuickDev\XamarinPart2\XamarinPart2Windows\XamarinPart2Windows.csproj;x86

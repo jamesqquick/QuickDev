@@ -1,0 +1,10 @@
+C:\Users\jaquick\Documents\GitHub\QuickDev\XamarinPart2\XamarinPart2.Windows\obj\x86\Debug\App.g.i.cs
+C:\Users\jaquick\Documents\GitHub\QuickDev\XamarinPart2\XamarinPart2.Windows\obj\x86\Debug\App.g.cs
+C:\Users\jaquick\Documents\GitHub\QuickDev\XamarinPart2\XamarinPart2.Windows\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\jaquick\Documents\GitHub\QuickDev\XamarinPart2\XamarinPart2.Windows\obj\x86\Debug\MainPage.g.cs
+C:\Users\jaquick\Documents\GitHub\QuickDev\XamarinPart2\XamarinPart2.Windows\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\jaquick\Documents\GitHub\QuickDev\XamarinPart2\XamarinPart2.Windows\obj\x86\Debug\App.xaml
+C:\Users\jaquick\Documents\GitHub\QuickDev\XamarinPart2\XamarinPart2.Windows\obj\x86\Debug\MainPage.xaml
+C:\Users\jaquick\Documents\GitHub\QuickDev\XamarinPart2\XamarinPart2.Windows\obj\x86\Debug\App.xbf
+C:\Users\jaquick\Documents\GitHub\QuickDev\XamarinPart2\XamarinPart2.Windows\obj\x86\Debug\MainPage.xbf
+C:\Users\jaquick\Documents\GitHub\QuickDev\XamarinPart2\XamarinPart2.Windows\obj\x86\Debug\XamlSaveStateFile.xml
