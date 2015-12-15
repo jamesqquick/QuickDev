@@ -1,11 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Paths>
-  <AdditionalAndroidResourcePaths>
-    <AdditionalAndroidResourcePath>/Users/jamesquick/.local/share/Xamarin/Android.Support.v4/21.0.3/embedded</AdditionalAndroidResourcePath>
-  </AdditionalAndroidResourcePaths>
-  <AdditionalJavaLibraryReferences>
-    <AdditionalJavaLibraryReference>/Users/jamesquick/.local/share/Xamarin/Android.Support.v4/21.0.3/embedded/classes.jar</AdditionalJavaLibraryReference>
-    <AdditionalJavaLibraryReference>/Users/jamesquick/.local/share/Xamarin/Android.Support.v4/21.0.3/embedded/libs/internal_impl-21.0.3.jar</AdditionalJavaLibraryReference>
-  </AdditionalJavaLibraryReferences>
-  <AdditionalNativeLibraryReferences />
+  <AdditionalAndroidResourcePaths>C:\Users\jaquick\AppData\Local\Xamarin\Android.Support.v4\21.0.3\embedded</AdditionalAndroidResourcePaths>
+  <AdditionalJavaLibraryReferences>C:\Users\jaquick\AppData\Local\Xamarin\Android.Support.v4\21.0.3\embedded\classes.jar;C:\Users\jaquick\AppData\Local\Xamarin\Android.Support.v4\21.0.3\embedded\libs\internal_impl-21.0.3.jar</AdditionalJavaLibraryReferences>
+  <AdditionalNativeLibraryReferences></AdditionalNativeLibraryReferences>
 </Paths>

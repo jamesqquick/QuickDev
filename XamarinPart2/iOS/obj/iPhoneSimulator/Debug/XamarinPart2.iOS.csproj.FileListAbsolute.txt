@@ -1,0 +1,16 @@
+C:\Users\jaquick\Documents\GitHub\QuickDev\XamarinPart2\iOS\bin\iPhoneSimulator\Debug\XamarinPart2iOS.exe
+C:\Users\jaquick\Documents\GitHub\QuickDev\XamarinPart2\iOS\bin\iPhoneSimulator\Debug\XamarinPart2iOS.pdb
+C:\Users\jaquick\Documents\GitHub\QuickDev\XamarinPart2\iOS\bin\iPhoneSimulator\Debug\Newtonsoft.Json.dll
+C:\Users\jaquick\Documents\GitHub\QuickDev\XamarinPart2\iOS\bin\iPhoneSimulator\Debug\PLCrashReporterUnifiedBinding.dll
+C:\Users\jaquick\Documents\GitHub\QuickDev\XamarinPart2\iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.dll
+C:\Users\jaquick\Documents\GitHub\QuickDev\XamarinPart2\iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.iOS.dll
+C:\Users\jaquick\Documents\GitHub\QuickDev\XamarinPart2\iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\jaquick\Documents\GitHub\QuickDev\XamarinPart2\iOS\bin\iPhoneSimulator\Debug\Xamarin.Insights.dll
+C:\Users\jaquick\Documents\GitHub\QuickDev\XamarinPart2\iOS\bin\iPhoneSimulator\Debug\Xamarin.Insights.xml
+C:\Users\jaquick\Documents\GitHub\QuickDev\XamarinPart2\iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.xml
+C:\Users\jaquick\Documents\GitHub\QuickDev\XamarinPart2\iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\jaquick\Documents\GitHub\QuickDev\XamarinPart2\iOS\bin\iPhoneSimulator\Debug\Newtonsoft.Json.xml
+C:\Users\jaquick\Documents\GitHub\QuickDev\XamarinPart2\iOS\obj\iPhoneSimulator\Debug\optimized\
+C:\Users\jaquick\Documents\GitHub\QuickDev\XamarinPart2\iOS\obj\iPhoneSimulator\Debug\XamarinPart2.iOS.csprojResolveAssemblyReference.cache
+C:\Users\jaquick\Documents\GitHub\QuickDev\XamarinPart2\iOS\obj\iPhoneSimulator\Debug\XamarinPart2iOS.exe
+C:\Users\jaquick\Documents\GitHub\QuickDev\XamarinPart2\iOS\obj\iPhoneSimulator\Debug\XamarinPart2iOS.pdb
