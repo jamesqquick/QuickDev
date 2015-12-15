@@ -1,6 +1,6 @@
 **Xamarin - Part 2**
 ======
- This sample corresponds to the very second episode of Quick Dev, where we dive Xamarin.Forms by creating another simple, yet completely shared UI.  We will also take a look at connecting to REST APIS, and how all of that logic can and will be shared.  We will use the Chuck Norris API to get back entertaining jokes!  In the final piece of this sample, we add some platform specific code to be able to read our joke out loud.  Xamarin.Forms has added DependencyService which makes it easy for us to use Dependency Injection to activate our platform specific code.
+ This sample corresponds to the second episode of Quick Dev, where we dive Xamarin.Forms by creating another simple, yet completely shared UI.  We will also take a look at connecting to REST APIS, and how all of that logic can and will be shared.  We will use the Chuck Norris API to get back entertaining jokes!  In the final piece of this sample, we add some platform specific code to be able to read our joke out loud.  Xamarin.Forms has added DependencyService which makes it easy for us to use Dependency Injection to activate our platform specific code.
 
 
 
@@ -10,7 +10,7 @@ Clone the Quick Dev samples with the following command.
 
 ```$ git clone https://github.com/jamesqquick/QuickDev.git ```
 
-Then, open up Xamarin-Part1->Xamarin-Part2.sln in either Visual Studio or Xamarin Studio to run the sample.
+Then, open up XamarinPart2->Xamarin-Part2.sln in either Visual Studio or Xamarin Studio to run the sample.
 
 ## **Technology**
 
