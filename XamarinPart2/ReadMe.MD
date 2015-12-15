@@ -23,10 +23,10 @@ Then, open up XamarinPart2->Xamarin-Part2.sln in either Visual Studio or Xamarin
 
 ## **Screenshots**
 
-
-Windows Phone               |  Android
-:-------------------------:|:-------------------------:
-![](https://lh3.googleusercontent.com/-Q4zX3wFMT9g/Vmr75kUFQcI/AAAAAAAAAJk/pzfTqEzw5ps/s0/XamarinPart1-1.PNG)  |  ![](https://lh3.googleusercontent.com/-JqQBOfFtfrc/Vmr8oKjOgXI/AAAAAAAAAJw/nNik8uuxfms/s0/XamarinPart1-2.PNG)
+Windows Phone               |  Android                 |    IOS
+:-------------------------:|:-------------------------:|:----------------------
+![](https://lh3.googleusercontent.com/-Q4zX3wFMT9g/Vmr75kUFQcI/AAAAAAAAAJk/pzfTqEzw5ps/s0/XamarinPart1-1.PNG)  |  ![](https://lh3.googleusercontent.com/Gvxggf4cyOea6TZsyZu208__MJZLwkL4fbUnvQcGbfoLj41iJs1esl4Ra3R6SamQcopn=s0) |
+![](https://lh3.googleusercontent.com/-EzeZTkxBEKk/VnBq4q5fTaI/AAAAAAAAAKs/_mVSCcNJ0ac/s0/Xamarin2-IOS.png)
  
 
 ## **Other Resources**
@@ -45,3 +45,4 @@ Windows Phone               |  Android
 
 
 > Written with [StackEdit](https://stackedit.io/).
+
