@@ -21,12 +21,13 @@ Then, open up XamarinPart2->Xamarin-Part2.sln in either Visual Studio or Xamarin
  5. Chuck Norris API
  6. Json.net
 
+
 ## **Screenshots**
 
-Windows Phone               |  Android                 |    IOS
-:-------------------------:|:-------------------------:|:----------------------
-![](https://lh3.googleusercontent.com/-Q4zX3wFMT9g/Vmr75kUFQcI/AAAAAAAAAJk/pzfTqEzw5ps/s0/XamarinPart1-1.PNG)  |  ![](https://lh3.googleusercontent.com/Gvxggf4cyOea6TZsyZu208__MJZLwkL4fbUnvQcGbfoLj41iJs1esl4Ra3R6SamQcopn=s0) |
-![](https://lh3.googleusercontent.com/-EzeZTkxBEKk/VnBq4q5fTaI/AAAAAAAAAKs/_mVSCcNJ0ac/s0/Xamarin2-IOS.png)
+
+Windows Phone               |  Android                |   IOS
+:-------------------------:|:-------------------------:|:-------------------------:
+![](https://lh3.googleusercontent.com/-Q4zX3wFMT9g/Vmr75kUFQcI/AAAAAAAAAJk/pzfTqEzw5ps/s0/XamarinPart1-1.PNG)  |  ![](https://raw.githubusercontent.com/jamesqquick/QuickDev/master/Screenshots/Xamarin2-Android.png)  |  ![ ](https://raw.githubusercontent.com/jamesqquick/QuickDev/master/Screenshots/Xamarin2-IOS.png)
  
 
 ## **Other Resources**
