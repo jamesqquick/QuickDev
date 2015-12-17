@@ -22,7 +22,7 @@ Then, open up Xamarin-Part3->Xamarin-Part3.sln in either Visual Studio or Xamari
 
 Windows Phone               |  Android                |   IOS
 :-------------------------:|:-------------------------:|:-------------------------:
-![](https://raw.githubusercontent.com/jamesqquick/QuickDev/master/Screenshots/Xamarin3-Windows.PNG)  |  ![](https://raw.githubusercontent.com/jamesqquick/QuickDev/master/Screenshots/Xamarin3-Android.PNG)  |  ![ ](https://raw.githubusercontent.com/jamesqquick/QuickDev/master/Screenshots/Xamarin1-IOS.png)
+![](https://raw.githubusercontent.com/jamesqquick/QuickDev/master/Screenshots/Xamarin3-Windows.PNG)  |  ![](https://raw.githubusercontent.com/jamesqquick/QuickDev/master/Screenshots/Xamarin3-Android.PNG)  |  ![ ](https://raw.githubusercontent.com/jamesqquick/QuickDev/master/Screenshots/Xamarin3-IOS.PNG)
  
 
 ## **Other Resources**
