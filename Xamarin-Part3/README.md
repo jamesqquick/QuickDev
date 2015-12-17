@@ -12,7 +12,7 @@ Then, open up Xamarin-Part3->Xamarin-Part3.sln in either Visual Studio or Xamari
 
 ## **Technology**
 
- 1. Xamarin
+ 1. Xamarin 
  2. Visual Studio
  3. Xamarin Studio
  4. Android, IOS, and Windows
