@@ -21,7 +21,7 @@ namespace Xamarin_Part3
 			Label title = new Label
 			{
 				Text = "Part 3",
-				FontSize = 42,
+				FontSize = Device.GetNamedSize (NamedSize.Large,typeof(Label)),
 				HorizontalOptions = LayoutOptions.Center,
 				VerticalOptions = LayoutOptions.StartAndExpand
 			};
@@ -31,8 +31,9 @@ namespace Xamarin_Part3
 			Button refreshButton = new Button
 			{
 				HorizontalOptions = LayoutOptions.Center,
-				FontSize = 32,
-				Text = "Refresh"
+				FontSize = Device.GetNamedSize (NamedSize.Medium,typeof(Button)),
+				Text = "Refresh",
+				VerticalOptions = LayoutOptions.StartAndExpand
 			};
 			refreshButton.Clicked += RefreshButton_Clicked;
 
@@ -44,8 +45,8 @@ namespace Xamarin_Part3
 			Button addButton = new Button
 			{
 				Text = "Add Item",
-				FontSize = 32,
-				
+				FontSize = Device.GetNamedSize (NamedSize.Medium,typeof(Button)),
+				VerticalOptions = LayoutOptions.StartAndExpand
 			};
 
 			addButton.Clicked += AddButton_Clicked;
@@ -53,14 +54,15 @@ namespace Xamarin_Part3
 			StackLayout horStack = new StackLayout
 			{
 				Orientation = StackOrientation.Horizontal,
-				Children = {itemEntry, addButton}
+				Children = {itemEntry, addButton},
+				HorizontalOptions = LayoutOptions.StartAndExpand
 			};
 
 			StackLayout stack = new StackLayout
 			{
 				Children = { title, list, refreshButton, horStack}
 			};
-			this.Padding = new Thickness(0, Device.OnPlatform(20, 0, 0), 0, 0);
+			this.Padding = new Thickness(10, Device.OnPlatform(20, 10, 10), 10, 10);
 			Content = stack;
 		}
 
@@ -76,7 +78,7 @@ namespace Xamarin_Part3
 			RefreshAsync();
 		}
 
-		protected async override void OnAppearing()
+		protected override void OnAppearing()
 		{
 			
 			RefreshAsync();

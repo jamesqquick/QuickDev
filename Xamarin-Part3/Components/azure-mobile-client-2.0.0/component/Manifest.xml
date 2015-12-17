@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<component format="1" id="azure-mobile-client" is-shell="true">
+  <name>Azure Mobile Client SDK</name>
+  <publisher>Microsoft</publisher>
+  <publisher-url>https://azure.microsoft.com/en-us/documentation/services/app-service/mobile/</publisher-url>
+  <version>2.0.0</version>
+  <summary>Store data in the cloud, authenticate users, and send push notifications.</summary>
+  <packages>
+    <package id="Microsoft.Azure.Mobile.Client" version="2.0.0" framework="ios-unified" />
+    <package id="Microsoft.Azure.Mobile.Client" version="2.0.0" framework="mobile" />
+  </packages>
+  <screenshots>
+    <img src="screenshots/azure-mobile-client.PNG" title="azure-mobile-client" />
+  </screenshots>
+  <samples>
+    <sample id="iOSsample">
+      <name>Azure Mobile Apps Xamarin iOS Sample</name>
+      <summary>Azure Mobile Apps Xamarin iOS Sample</summary>
+    </sample>
+    <sample id="androidsample">
+      <name>Azure Mobile Apps Xamarin Android Sample</name>
+      <summary>Azure Mobile Apps Xamarin Android Sample</summary>
+    </sample>
+  </samples>
+</component>

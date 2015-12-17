@@ -10,7 +10,7 @@ public class FormAuthenticatorActivity_State
 	static {
 		__md_methods = 
 			"";
-		mono.android.Runtime.register ("Xamarin.Auth._MobileServices.FormAuthenticatorActivity/State, Microsoft.WindowsAzure.Mobile.Ext, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35", FormAuthenticatorActivity_State.class, __md_methods);
+		mono.android.Runtime.register ("Xamarin.Auth._MobileServices.FormAuthenticatorActivity+State, Microsoft.WindowsAzure.Mobile.Ext, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35", FormAuthenticatorActivity_State.class, __md_methods);
 	}
 
 
@@ -18,7 +18,7 @@ public class FormAuthenticatorActivity_State
 	{
 		super ();
 		if (getClass () == FormAuthenticatorActivity_State.class)
-			mono.android.TypeManager.Activate ("Xamarin.Auth._MobileServices.FormAuthenticatorActivity/State, Microsoft.WindowsAzure.Mobile.Ext, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35", "", this, new java.lang.Object[] {  });
+			mono.android.TypeManager.Activate ("Xamarin.Auth._MobileServices.FormAuthenticatorActivity+State, Microsoft.WindowsAzure.Mobile.Ext, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35", "", this, new java.lang.Object[] {  });
 	}
 
 	java.util.ArrayList refList;

@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-
+using Microsoft.WindowsAzure.MobileServices;
 using Foundation;
 using UIKit;
 
@@ -23,6 +23,7 @@ namespace Xamarin_Part3.iOS
 		public override bool FinishedLaunching(UIApplication app, NSDictionary options)
 		{
 			global::Xamarin.Forms.Forms.Init ();
+			CurrentPlatform.Init ();
 			LoadApplication (new Xamarin_Part3.App ());
 
 			return base.FinishedLaunching (app, options);

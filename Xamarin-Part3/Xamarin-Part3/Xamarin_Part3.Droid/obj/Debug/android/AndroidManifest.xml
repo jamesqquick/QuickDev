@@ -1,7 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="Xamarin_Part3.Droid">
+  <!--suppress UsesMinSdkAttributes-->
   <uses-sdk android:minSdkVersion="15" />
-  <application android:name="mono.android.app.Application" android:debuggable="true">
+  <uses-permission android:name="android.permission.INTERNET" />
+  <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+  <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+  <application android:name="mono.android.app.Application" android:allowBackup="true" android:icon="@drawable/icon" android:debuggable="true">
     <activity android:configChanges="orientation|screenSize" android:icon="@drawable/icon" android:label="Xamarin_Part3" android:name="md500f965dd298be9877ad92d872aa15f69.MainActivity">
       <intent-filter>
         <action android:name="android.intent.action.MAIN" />
@@ -11,6 +15,7 @@
     <activity android:label="Web Authenticator" android:name="md56fe4ce61dba0ba6ccd099078d75ab71d.FormAuthenticatorActivity" />
     <activity android:label="Web Authenticator" android:name="md56fe4ce61dba0ba6ccd099078d75ab71d.WebAuthenticatorActivity" />
     <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="Xamarin_Part3.Droid.mono.MonoRuntimeProvider.__mono_init__" />
+    <!--suppress ExportedReceiver-->
     <receiver android:name="mono.android.Seppuku">
       <intent-filter>
         <action android:name="mono.android.intent.action.SEPPUKU" />
@@ -18,7 +23,4 @@
       </intent-filter>
     </receiver>
   </application>
-  <uses-permission android:name="android.permission.INTERNET" />
-  <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-  <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
 </manifest>

@@ -3,7 +3,7 @@ Xamarin_Part3.Droid.MainActivity, Xamarin_Part3.Droid, Version=1.0.0.0, Culture=
 Xamarin_Part3.Droid.MainActivity;md500f965dd298be9877ad92d872aa15f69.MainActivity
 xamarin_part3.droid.MainActivity;md500f965dd298be9877ad92d872aa15f69.MainActivity
 Xamarin.Auth._MobileServices.AndroidAccountStore/SecretAccount, Microsoft.WindowsAzure.Mobile.Ext;md56fe4ce61dba0ba6ccd099078d75ab71d.AndroidAccountStore_SecretAccount
-Xamarin.Auth._MobileServices.AndroidAccountStore/SecretAccount, Microsoft.WindowsAzure.Mobile.Ext, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35;md56fe4ce61dba0ba6ccd099078d75ab71d.AndroidAccountStore_SecretAccount
+Xamarin.Auth._MobileServices.AndroidAccountStore+SecretAccount, Microsoft.WindowsAzure.Mobile.Ext, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35;md56fe4ce61dba0ba6ccd099078d75ab71d.AndroidAccountStore_SecretAccount
 Xamarin.Auth._MobileServices.AndroidAccountStore.SecretAccount;md56fe4ce61dba0ba6ccd099078d75ab71d.AndroidAccountStore_SecretAccount
 xamarin.auth._mobileservices.AndroidAccountStore_SecretAccount;md56fe4ce61dba0ba6ccd099078d75ab71d.AndroidAccountStore_SecretAccount
 Xamarin.Auth._MobileServices.FormAuthenticatorActivity, Microsoft.WindowsAzure.Mobile.Ext;md56fe4ce61dba0ba6ccd099078d75ab71d.FormAuthenticatorActivity
@@ -11,7 +11,7 @@ Xamarin.Auth._MobileServices.FormAuthenticatorActivity, Microsoft.WindowsAzure.M
 Xamarin.Auth._MobileServices.FormAuthenticatorActivity;md56fe4ce61dba0ba6ccd099078d75ab71d.FormAuthenticatorActivity
 xamarin.auth._mobileservices.FormAuthenticatorActivity;md56fe4ce61dba0ba6ccd099078d75ab71d.FormAuthenticatorActivity
 Xamarin.Auth._MobileServices.FormAuthenticatorActivity/State, Microsoft.WindowsAzure.Mobile.Ext;md56fe4ce61dba0ba6ccd099078d75ab71d.FormAuthenticatorActivity_State
-Xamarin.Auth._MobileServices.FormAuthenticatorActivity/State, Microsoft.WindowsAzure.Mobile.Ext, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35;md56fe4ce61dba0ba6ccd099078d75ab71d.FormAuthenticatorActivity_State
+Xamarin.Auth._MobileServices.FormAuthenticatorActivity+State, Microsoft.WindowsAzure.Mobile.Ext, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35;md56fe4ce61dba0ba6ccd099078d75ab71d.FormAuthenticatorActivity_State
 Xamarin.Auth._MobileServices.FormAuthenticatorActivity.State;md56fe4ce61dba0ba6ccd099078d75ab71d.FormAuthenticatorActivity_State
 xamarin.auth._mobileservices.FormAuthenticatorActivity_State;md56fe4ce61dba0ba6ccd099078d75ab71d.FormAuthenticatorActivity_State
 Xamarin.Auth._MobileServices.WebAuthenticatorActivity, Microsoft.WindowsAzure.Mobile.Ext;md56fe4ce61dba0ba6ccd099078d75ab71d.WebAuthenticatorActivity
@@ -19,61 +19,61 @@ Xamarin.Auth._MobileServices.WebAuthenticatorActivity, Microsoft.WindowsAzure.Mo
 Xamarin.Auth._MobileServices.WebAuthenticatorActivity;md56fe4ce61dba0ba6ccd099078d75ab71d.WebAuthenticatorActivity
 xamarin.auth._mobileservices.WebAuthenticatorActivity;md56fe4ce61dba0ba6ccd099078d75ab71d.WebAuthenticatorActivity
 Xamarin.Auth._MobileServices.WebAuthenticatorActivity/State, Microsoft.WindowsAzure.Mobile.Ext;md56fe4ce61dba0ba6ccd099078d75ab71d.WebAuthenticatorActivity_State
-Xamarin.Auth._MobileServices.WebAuthenticatorActivity/State, Microsoft.WindowsAzure.Mobile.Ext, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35;md56fe4ce61dba0ba6ccd099078d75ab71d.WebAuthenticatorActivity_State
+Xamarin.Auth._MobileServices.WebAuthenticatorActivity+State, Microsoft.WindowsAzure.Mobile.Ext, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35;md56fe4ce61dba0ba6ccd099078d75ab71d.WebAuthenticatorActivity_State
 Xamarin.Auth._MobileServices.WebAuthenticatorActivity.State;md56fe4ce61dba0ba6ccd099078d75ab71d.WebAuthenticatorActivity_State
 xamarin.auth._mobileservices.WebAuthenticatorActivity_State;md56fe4ce61dba0ba6ccd099078d75ab71d.WebAuthenticatorActivity_State
 Xamarin.Auth._MobileServices.WebAuthenticatorActivity/Client, Microsoft.WindowsAzure.Mobile.Ext;md56fe4ce61dba0ba6ccd099078d75ab71d.WebAuthenticatorActivity_Client
-Xamarin.Auth._MobileServices.WebAuthenticatorActivity/Client, Microsoft.WindowsAzure.Mobile.Ext, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35;md56fe4ce61dba0ba6ccd099078d75ab71d.WebAuthenticatorActivity_Client
+Xamarin.Auth._MobileServices.WebAuthenticatorActivity+Client, Microsoft.WindowsAzure.Mobile.Ext, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35;md56fe4ce61dba0ba6ccd099078d75ab71d.WebAuthenticatorActivity_Client
 Xamarin.Auth._MobileServices.WebAuthenticatorActivity.Client;md56fe4ce61dba0ba6ccd099078d75ab71d.WebAuthenticatorActivity_Client
 xamarin.auth._mobileservices.WebAuthenticatorActivity_Client;md56fe4ce61dba0ba6ccd099078d75ab71d.WebAuthenticatorActivity_Client
 Android.Support.V4.App.FragmentManager/IOnBackStackChangedListenerImplementor, Xamarin.Android.Support.v4;mono.android.support.v4.app.FragmentManager_OnBackStackChangedListenerImplementor
-Android.Support.V4.App.FragmentManager/IOnBackStackChangedListenerImplementor, Xamarin.Android.Support.v4, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v4.app.FragmentManager_OnBackStackChangedListenerImplementor
+Android.Support.V4.App.FragmentManager+IOnBackStackChangedListenerImplementor, Xamarin.Android.Support.v4, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v4.app.FragmentManager_OnBackStackChangedListenerImplementor
 Android.Support.V4.App.FragmentManager.IOnBackStackChangedListenerImplementor;mono.android.support.v4.app.FragmentManager_OnBackStackChangedListenerImplementor
-android.support.v4.app.FragmentManager_IOnBackStackChangedListenerImplementor;mono.android.support.v4.app.FragmentManager_OnBackStackChangedListenerImplementor
+mono.android.support.v4.app.FragmentManager_OnBackStackChangedListenerImplementor;mono.android.support.v4.app.FragmentManager_OnBackStackChangedListenerImplementor
 Android.Support.V4.Content.Loader/IOnLoadCompleteListenerImplementor, Xamarin.Android.Support.v4;mono.android.support.v4.content.Loader_OnLoadCompleteListenerImplementor
-Android.Support.V4.Content.Loader/IOnLoadCompleteListenerImplementor, Xamarin.Android.Support.v4, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v4.content.Loader_OnLoadCompleteListenerImplementor
+Android.Support.V4.Content.Loader+IOnLoadCompleteListenerImplementor, Xamarin.Android.Support.v4, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v4.content.Loader_OnLoadCompleteListenerImplementor
 Android.Support.V4.Content.Loader.IOnLoadCompleteListenerImplementor;mono.android.support.v4.content.Loader_OnLoadCompleteListenerImplementor
-android.support.v4.content.Loader_IOnLoadCompleteListenerImplementor;mono.android.support.v4.content.Loader_OnLoadCompleteListenerImplementor
+mono.android.support.v4.content.Loader_OnLoadCompleteListenerImplementor;mono.android.support.v4.content.Loader_OnLoadCompleteListenerImplementor
 Android.Support.V4.View.ActionProvider/ISubUiVisibilityListenerImplementor, Xamarin.Android.Support.v4;mono.android.support.v4.view.ActionProvider_SubUiVisibilityListenerImplementor
-Android.Support.V4.View.ActionProvider/ISubUiVisibilityListenerImplementor, Xamarin.Android.Support.v4, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v4.view.ActionProvider_SubUiVisibilityListenerImplementor
+Android.Support.V4.View.ActionProvider+ISubUiVisibilityListenerImplementor, Xamarin.Android.Support.v4, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v4.view.ActionProvider_SubUiVisibilityListenerImplementor
 Android.Support.V4.View.ActionProvider.ISubUiVisibilityListenerImplementor;mono.android.support.v4.view.ActionProvider_SubUiVisibilityListenerImplementor
-android.support.v4.view.ActionProvider_ISubUiVisibilityListenerImplementor;mono.android.support.v4.view.ActionProvider_SubUiVisibilityListenerImplementor
+mono.android.support.v4.view.ActionProvider_SubUiVisibilityListenerImplementor;mono.android.support.v4.view.ActionProvider_SubUiVisibilityListenerImplementor
 Android.Support.V4.View.ActionProvider/IVisibilityListenerImplementor, Xamarin.Android.Support.v4;mono.android.support.v4.view.ActionProvider_VisibilityListenerImplementor
-Android.Support.V4.View.ActionProvider/IVisibilityListenerImplementor, Xamarin.Android.Support.v4, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v4.view.ActionProvider_VisibilityListenerImplementor
+Android.Support.V4.View.ActionProvider+IVisibilityListenerImplementor, Xamarin.Android.Support.v4, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v4.view.ActionProvider_VisibilityListenerImplementor
 Android.Support.V4.View.ActionProvider.IVisibilityListenerImplementor;mono.android.support.v4.view.ActionProvider_VisibilityListenerImplementor
-android.support.v4.view.ActionProvider_IVisibilityListenerImplementor;mono.android.support.v4.view.ActionProvider_VisibilityListenerImplementor
+mono.android.support.v4.view.ActionProvider_VisibilityListenerImplementor;mono.android.support.v4.view.ActionProvider_VisibilityListenerImplementor
 Android.Support.V4.View.IOnApplyWindowInsetsListenerImplementor, Xamarin.Android.Support.v4;mono.android.support.v4.view.OnApplyWindowInsetsListenerImplementor
 Android.Support.V4.View.IOnApplyWindowInsetsListenerImplementor, Xamarin.Android.Support.v4, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v4.view.OnApplyWindowInsetsListenerImplementor
 Android.Support.V4.View.IOnApplyWindowInsetsListenerImplementor;mono.android.support.v4.view.OnApplyWindowInsetsListenerImplementor
-android.support.v4.view.IOnApplyWindowInsetsListenerImplementor;mono.android.support.v4.view.OnApplyWindowInsetsListenerImplementor
+mono.android.support.v4.view.OnApplyWindowInsetsListenerImplementor;mono.android.support.v4.view.OnApplyWindowInsetsListenerImplementor
 Android.Support.V4.View.IViewPropertyAnimatorListenerImplementor, Xamarin.Android.Support.v4;mono.android.support.v4.view.ViewPropertyAnimatorListenerImplementor
 Android.Support.V4.View.IViewPropertyAnimatorListenerImplementor, Xamarin.Android.Support.v4, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v4.view.ViewPropertyAnimatorListenerImplementor
 Android.Support.V4.View.IViewPropertyAnimatorListenerImplementor;mono.android.support.v4.view.ViewPropertyAnimatorListenerImplementor
-android.support.v4.view.IViewPropertyAnimatorListenerImplementor;mono.android.support.v4.view.ViewPropertyAnimatorListenerImplementor
+mono.android.support.v4.view.ViewPropertyAnimatorListenerImplementor;mono.android.support.v4.view.ViewPropertyAnimatorListenerImplementor
 Android.Support.V4.View.IViewPropertyAnimatorUpdateListenerImplementor, Xamarin.Android.Support.v4;mono.android.support.v4.view.ViewPropertyAnimatorUpdateListenerImplementor
 Android.Support.V4.View.IViewPropertyAnimatorUpdateListenerImplementor, Xamarin.Android.Support.v4, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v4.view.ViewPropertyAnimatorUpdateListenerImplementor
 Android.Support.V4.View.IViewPropertyAnimatorUpdateListenerImplementor;mono.android.support.v4.view.ViewPropertyAnimatorUpdateListenerImplementor
-android.support.v4.view.IViewPropertyAnimatorUpdateListenerImplementor;mono.android.support.v4.view.ViewPropertyAnimatorUpdateListenerImplementor
+mono.android.support.v4.view.ViewPropertyAnimatorUpdateListenerImplementor;mono.android.support.v4.view.ViewPropertyAnimatorUpdateListenerImplementor
 Android.Support.V4.View.MenuItemCompat/IOnActionExpandListenerImplementor, Xamarin.Android.Support.v4;mono.android.support.v4.view.MenuItemCompat_OnActionExpandListenerImplementor
-Android.Support.V4.View.MenuItemCompat/IOnActionExpandListenerImplementor, Xamarin.Android.Support.v4, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v4.view.MenuItemCompat_OnActionExpandListenerImplementor
+Android.Support.V4.View.MenuItemCompat+IOnActionExpandListenerImplementor, Xamarin.Android.Support.v4, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v4.view.MenuItemCompat_OnActionExpandListenerImplementor
 Android.Support.V4.View.MenuItemCompat.IOnActionExpandListenerImplementor;mono.android.support.v4.view.MenuItemCompat_OnActionExpandListenerImplementor
-android.support.v4.view.MenuItemCompat_IOnActionExpandListenerImplementor;mono.android.support.v4.view.MenuItemCompat_OnActionExpandListenerImplementor
+mono.android.support.v4.view.MenuItemCompat_OnActionExpandListenerImplementor;mono.android.support.v4.view.MenuItemCompat_OnActionExpandListenerImplementor
 Android.Support.V4.View.ViewPager/IOnPageChangeListenerImplementor, Xamarin.Android.Support.v4;mono.android.support.v4.view.ViewPager_OnPageChangeListenerImplementor
-Android.Support.V4.View.ViewPager/IOnPageChangeListenerImplementor, Xamarin.Android.Support.v4, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v4.view.ViewPager_OnPageChangeListenerImplementor
+Android.Support.V4.View.ViewPager+IOnPageChangeListenerImplementor, Xamarin.Android.Support.v4, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v4.view.ViewPager_OnPageChangeListenerImplementor
 Android.Support.V4.View.ViewPager.IOnPageChangeListenerImplementor;mono.android.support.v4.view.ViewPager_OnPageChangeListenerImplementor
-android.support.v4.view.ViewPager_IOnPageChangeListenerImplementor;mono.android.support.v4.view.ViewPager_OnPageChangeListenerImplementor
+mono.android.support.v4.view.ViewPager_OnPageChangeListenerImplementor;mono.android.support.v4.view.ViewPager_OnPageChangeListenerImplementor
 Android.Support.V4.Widget.DrawerLayout/IDrawerListenerImplementor, Xamarin.Android.Support.v4;mono.android.support.v4.widget.DrawerLayout_DrawerListenerImplementor
-Android.Support.V4.Widget.DrawerLayout/IDrawerListenerImplementor, Xamarin.Android.Support.v4, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v4.widget.DrawerLayout_DrawerListenerImplementor
+Android.Support.V4.Widget.DrawerLayout+IDrawerListenerImplementor, Xamarin.Android.Support.v4, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v4.widget.DrawerLayout_DrawerListenerImplementor
 Android.Support.V4.Widget.DrawerLayout.IDrawerListenerImplementor;mono.android.support.v4.widget.DrawerLayout_DrawerListenerImplementor
-android.support.v4.widget.DrawerLayout_IDrawerListenerImplementor;mono.android.support.v4.widget.DrawerLayout_DrawerListenerImplementor
+mono.android.support.v4.widget.DrawerLayout_DrawerListenerImplementor;mono.android.support.v4.widget.DrawerLayout_DrawerListenerImplementor
 Android.Support.V4.Widget.SlidingPaneLayout/IPanelSlideListenerImplementor, Xamarin.Android.Support.v4;mono.android.support.v4.widget.SlidingPaneLayout_PanelSlideListenerImplementor
-Android.Support.V4.Widget.SlidingPaneLayout/IPanelSlideListenerImplementor, Xamarin.Android.Support.v4, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v4.widget.SlidingPaneLayout_PanelSlideListenerImplementor
+Android.Support.V4.Widget.SlidingPaneLayout+IPanelSlideListenerImplementor, Xamarin.Android.Support.v4, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v4.widget.SlidingPaneLayout_PanelSlideListenerImplementor
 Android.Support.V4.Widget.SlidingPaneLayout.IPanelSlideListenerImplementor;mono.android.support.v4.widget.SlidingPaneLayout_PanelSlideListenerImplementor
-android.support.v4.widget.SlidingPaneLayout_IPanelSlideListenerImplementor;mono.android.support.v4.widget.SlidingPaneLayout_PanelSlideListenerImplementor
+mono.android.support.v4.widget.SlidingPaneLayout_PanelSlideListenerImplementor;mono.android.support.v4.widget.SlidingPaneLayout_PanelSlideListenerImplementor
 Android.Support.V4.Widget.SwipeRefreshLayout/IOnRefreshListenerImplementor, Xamarin.Android.Support.v4;mono.android.support.v4.widget.SwipeRefreshLayout_OnRefreshListenerImplementor
-Android.Support.V4.Widget.SwipeRefreshLayout/IOnRefreshListenerImplementor, Xamarin.Android.Support.v4, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v4.widget.SwipeRefreshLayout_OnRefreshListenerImplementor
+Android.Support.V4.Widget.SwipeRefreshLayout+IOnRefreshListenerImplementor, Xamarin.Android.Support.v4, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v4.widget.SwipeRefreshLayout_OnRefreshListenerImplementor
 Android.Support.V4.Widget.SwipeRefreshLayout.IOnRefreshListenerImplementor;mono.android.support.v4.widget.SwipeRefreshLayout_OnRefreshListenerImplementor
-android.support.v4.widget.SwipeRefreshLayout_IOnRefreshListenerImplementor;mono.android.support.v4.widget.SwipeRefreshLayout_OnRefreshListenerImplementor
+mono.android.support.v4.widget.SwipeRefreshLayout_OnRefreshListenerImplementor;mono.android.support.v4.widget.SwipeRefreshLayout_OnRefreshListenerImplementor
 Xamarin.Forms.Platform.Android.CellAdapter, Xamarin.Forms.Platform.Android;md5d4dd78677dce656d5db26c85a3743ef3.CellAdapter
 Xamarin.Forms.Platform.Android.CellAdapter, Xamarin.Forms.Platform.Android, Version=1.3.3.0, Culture=neutral, PublicKeyToken=null;md5d4dd78677dce656d5db26c85a3743ef3.CellAdapter
 Xamarin.Forms.Platform.Android.CellAdapter;md5d4dd78677dce656d5db26c85a3743ef3.CellAdapter
@@ -91,7 +91,7 @@ Xamarin.Forms.Platform.Android.BaseCellView, Xamarin.Forms.Platform.Android, Ver
 Xamarin.Forms.Platform.Android.BaseCellView;md5d4dd78677dce656d5db26c85a3743ef3.BaseCellView
 xamarin.forms.platform.android.BaseCellView;md5d4dd78677dce656d5db26c85a3743ef3.BaseCellView
 Xamarin.Forms.Platform.Android.CellRenderer/RendererHolder, Xamarin.Forms.Platform.Android;md5d4dd78677dce656d5db26c85a3743ef3.CellRenderer_RendererHolder
-Xamarin.Forms.Platform.Android.CellRenderer/RendererHolder, Xamarin.Forms.Platform.Android, Version=1.3.3.0, Culture=neutral, PublicKeyToken=null;md5d4dd78677dce656d5db26c85a3743ef3.CellRenderer_RendererHolder
+Xamarin.Forms.Platform.Android.CellRenderer+RendererHolder, Xamarin.Forms.Platform.Android, Version=1.3.3.0, Culture=neutral, PublicKeyToken=null;md5d4dd78677dce656d5db26c85a3743ef3.CellRenderer_RendererHolder
 Xamarin.Forms.Platform.Android.CellRenderer.RendererHolder;md5d4dd78677dce656d5db26c85a3743ef3.CellRenderer_RendererHolder
 xamarin.forms.platform.android.CellRenderer_RendererHolder;md5d4dd78677dce656d5db26c85a3743ef3.CellRenderer_RendererHolder
 Xamarin.Forms.Platform.Android.EntryCellEditText, Xamarin.Forms.Platform.Android;md5d4dd78677dce656d5db26c85a3743ef3.EntryCellEditText
@@ -107,11 +107,11 @@ Xamarin.Forms.Platform.Android.SwitchCellView, Xamarin.Forms.Platform.Android, V
 Xamarin.Forms.Platform.Android.SwitchCellView;md5d4dd78677dce656d5db26c85a3743ef3.SwitchCellView
 xamarin.forms.platform.android.SwitchCellView;md5d4dd78677dce656d5db26c85a3743ef3.SwitchCellView
 Xamarin.Forms.Platform.Android.TextCellRenderer/TextCellView, Xamarin.Forms.Platform.Android;md5d4dd78677dce656d5db26c85a3743ef3.TextCellRenderer_TextCellView
-Xamarin.Forms.Platform.Android.TextCellRenderer/TextCellView, Xamarin.Forms.Platform.Android, Version=1.3.3.0, Culture=neutral, PublicKeyToken=null;md5d4dd78677dce656d5db26c85a3743ef3.TextCellRenderer_TextCellView
+Xamarin.Forms.Platform.Android.TextCellRenderer+TextCellView, Xamarin.Forms.Platform.Android, Version=1.3.3.0, Culture=neutral, PublicKeyToken=null;md5d4dd78677dce656d5db26c85a3743ef3.TextCellRenderer_TextCellView
 Xamarin.Forms.Platform.Android.TextCellRenderer.TextCellView;md5d4dd78677dce656d5db26c85a3743ef3.TextCellRenderer_TextCellView
 xamarin.forms.platform.android.TextCellRenderer_TextCellView;md5d4dd78677dce656d5db26c85a3743ef3.TextCellRenderer_TextCellView
 Xamarin.Forms.Platform.Android.ViewCellRenderer/ViewCellContainer, Xamarin.Forms.Platform.Android;md5d4dd78677dce656d5db26c85a3743ef3.ViewCellRenderer_ViewCellContainer
-Xamarin.Forms.Platform.Android.ViewCellRenderer/ViewCellContainer, Xamarin.Forms.Platform.Android, Version=1.3.3.0, Culture=neutral, PublicKeyToken=null;md5d4dd78677dce656d5db26c85a3743ef3.ViewCellRenderer_ViewCellContainer
+Xamarin.Forms.Platform.Android.ViewCellRenderer+ViewCellContainer, Xamarin.Forms.Platform.Android, Version=1.3.3.0, Culture=neutral, PublicKeyToken=null;md5d4dd78677dce656d5db26c85a3743ef3.ViewCellRenderer_ViewCellContainer
 Xamarin.Forms.Platform.Android.ViewCellRenderer.ViewCellContainer;md5d4dd78677dce656d5db26c85a3743ef3.ViewCellRenderer_ViewCellContainer
 xamarin.forms.platform.android.ViewCellRenderer_ViewCellContainer;md5d4dd78677dce656d5db26c85a3743ef3.ViewCellRenderer_ViewCellContainer
 Xamarin.Forms.Platform.Android.GenericMenuClickListener, Xamarin.Forms.Platform.Android;md5d4dd78677dce656d5db26c85a3743ef3.GenericMenuClickListener
@@ -135,7 +135,7 @@ Xamarin.Forms.Platform.Android.PlatformRenderer, Xamarin.Forms.Platform.Android,
 Xamarin.Forms.Platform.Android.PlatformRenderer;md5d4dd78677dce656d5db26c85a3743ef3.PlatformRenderer
 xamarin.forms.platform.android.PlatformRenderer;md5d4dd78677dce656d5db26c85a3743ef3.PlatformRenderer
 Xamarin.Forms.Platform.Android.RendererFactory/DefaultRenderer, Xamarin.Forms.Platform.Android;md5d4dd78677dce656d5db26c85a3743ef3.RendererFactory_DefaultRenderer
-Xamarin.Forms.Platform.Android.RendererFactory/DefaultRenderer, Xamarin.Forms.Platform.Android, Version=1.3.3.0, Culture=neutral, PublicKeyToken=null;md5d4dd78677dce656d5db26c85a3743ef3.RendererFactory_DefaultRenderer
+Xamarin.Forms.Platform.Android.RendererFactory+DefaultRenderer, Xamarin.Forms.Platform.Android, Version=1.3.3.0, Culture=neutral, PublicKeyToken=null;md5d4dd78677dce656d5db26c85a3743ef3.RendererFactory_DefaultRenderer
 Xamarin.Forms.Platform.Android.RendererFactory.DefaultRenderer;md5d4dd78677dce656d5db26c85a3743ef3.RendererFactory_DefaultRenderer
 xamarin.forms.platform.android.RendererFactory_DefaultRenderer;md5d4dd78677dce656d5db26c85a3743ef3.RendererFactory_DefaultRenderer
 Xamarin.Forms.Platform.Android.ActionSheetRenderer, Xamarin.Forms.Platform.Android;md5d4dd78677dce656d5db26c85a3743ef3.ActionSheetRenderer
@@ -159,7 +159,7 @@ Xamarin.Forms.Platform.Android.ButtonRenderer, Xamarin.Forms.Platform.Android, V
 Xamarin.Forms.Platform.Android.ButtonRenderer;md5d4dd78677dce656d5db26c85a3743ef3.ButtonRenderer
 xamarin.forms.platform.android.ButtonRenderer;md5d4dd78677dce656d5db26c85a3743ef3.ButtonRenderer
 Xamarin.Forms.Platform.Android.ButtonRenderer/ButtonClickListener, Xamarin.Forms.Platform.Android;md5d4dd78677dce656d5db26c85a3743ef3.ButtonRenderer_ButtonClickListener
-Xamarin.Forms.Platform.Android.ButtonRenderer/ButtonClickListener, Xamarin.Forms.Platform.Android, Version=1.3.3.0, Culture=neutral, PublicKeyToken=null;md5d4dd78677dce656d5db26c85a3743ef3.ButtonRenderer_ButtonClickListener
+Xamarin.Forms.Platform.Android.ButtonRenderer+ButtonClickListener, Xamarin.Forms.Platform.Android, Version=1.3.3.0, Culture=neutral, PublicKeyToken=null;md5d4dd78677dce656d5db26c85a3743ef3.ButtonRenderer_ButtonClickListener
 Xamarin.Forms.Platform.Android.ButtonRenderer.ButtonClickListener;md5d4dd78677dce656d5db26c85a3743ef3.ButtonRenderer_ButtonClickListener
 xamarin.forms.platform.android.ButtonRenderer_ButtonClickListener;md5d4dd78677dce656d5db26c85a3743ef3.ButtonRenderer_ButtonClickListener
 Xamarin.Forms.Platform.Android.CarouselPageRenderer, Xamarin.Forms.Platform.Android;md5d4dd78677dce656d5db26c85a3743ef3.CarouselPageRenderer
@@ -171,7 +171,7 @@ Xamarin.Forms.Platform.Android.DatePickerRenderer, Xamarin.Forms.Platform.Androi
 Xamarin.Forms.Platform.Android.DatePickerRenderer;md5d4dd78677dce656d5db26c85a3743ef3.DatePickerRenderer
 xamarin.forms.platform.android.DatePickerRenderer;md5d4dd78677dce656d5db26c85a3743ef3.DatePickerRenderer
 Xamarin.Forms.Platform.Android.DatePickerRenderer/TextFieldClickHandler, Xamarin.Forms.Platform.Android;md5d4dd78677dce656d5db26c85a3743ef3.DatePickerRenderer_TextFieldClickHandler
-Xamarin.Forms.Platform.Android.DatePickerRenderer/TextFieldClickHandler, Xamarin.Forms.Platform.Android, Version=1.3.3.0, Culture=neutral, PublicKeyToken=null;md5d4dd78677dce656d5db26c85a3743ef3.DatePickerRenderer_TextFieldClickHandler
+Xamarin.Forms.Platform.Android.DatePickerRenderer+TextFieldClickHandler, Xamarin.Forms.Platform.Android, Version=1.3.3.0, Culture=neutral, PublicKeyToken=null;md5d4dd78677dce656d5db26c85a3743ef3.DatePickerRenderer_TextFieldClickHandler
 Xamarin.Forms.Platform.Android.DatePickerRenderer.TextFieldClickHandler;md5d4dd78677dce656d5db26c85a3743ef3.DatePickerRenderer_TextFieldClickHandler
 xamarin.forms.platform.android.DatePickerRenderer_TextFieldClickHandler;md5d4dd78677dce656d5db26c85a3743ef3.DatePickerRenderer_TextFieldClickHandler
 Xamarin.Forms.Platform.Android.EditorEditText, Xamarin.Forms.Platform.Android;md5d4dd78677dce656d5db26c85a3743ef3.EditorEditText
@@ -195,7 +195,7 @@ Xamarin.Forms.Platform.Android.FrameRenderer, Xamarin.Forms.Platform.Android, Ve
 Xamarin.Forms.Platform.Android.FrameRenderer;md5d4dd78677dce656d5db26c85a3743ef3.FrameRenderer
 xamarin.forms.platform.android.FrameRenderer;md5d4dd78677dce656d5db26c85a3743ef3.FrameRenderer
 Xamarin.Forms.Platform.Android.FrameRenderer/FrameDrawable, Xamarin.Forms.Platform.Android;md5d4dd78677dce656d5db26c85a3743ef3.FrameRenderer_FrameDrawable
-Xamarin.Forms.Platform.Android.FrameRenderer/FrameDrawable, Xamarin.Forms.Platform.Android, Version=1.3.3.0, Culture=neutral, PublicKeyToken=null;md5d4dd78677dce656d5db26c85a3743ef3.FrameRenderer_FrameDrawable
+Xamarin.Forms.Platform.Android.FrameRenderer+FrameDrawable, Xamarin.Forms.Platform.Android, Version=1.3.3.0, Culture=neutral, PublicKeyToken=null;md5d4dd78677dce656d5db26c85a3743ef3.FrameRenderer_FrameDrawable
 Xamarin.Forms.Platform.Android.FrameRenderer.FrameDrawable;md5d4dd78677dce656d5db26c85a3743ef3.FrameRenderer_FrameDrawable
 xamarin.forms.platform.android.FrameRenderer_FrameDrawable;md5d4dd78677dce656d5db26c85a3743ef3.FrameRenderer_FrameDrawable
 Xamarin.Forms.Platform.Android.FormsImageView, Xamarin.Forms.Platform.Android;md5d4dd78677dce656d5db26c85a3743ef3.FormsImageView
@@ -207,7 +207,7 @@ Xamarin.Forms.Platform.Android.ImageRenderer, Xamarin.Forms.Platform.Android, Ve
 Xamarin.Forms.Platform.Android.ImageRenderer;md5d4dd78677dce656d5db26c85a3743ef3.ImageRenderer
 xamarin.forms.platform.android.ImageRenderer;md5d4dd78677dce656d5db26c85a3743ef3.ImageRenderer
 Xamarin.Forms.Platform.Android.FormattedStringExtensions/FontSpan, Xamarin.Forms.Platform.Android;md5d4dd78677dce656d5db26c85a3743ef3.FormattedStringExtensions_FontSpan
-Xamarin.Forms.Platform.Android.FormattedStringExtensions/FontSpan, Xamarin.Forms.Platform.Android, Version=1.3.3.0, Culture=neutral, PublicKeyToken=null;md5d4dd78677dce656d5db26c85a3743ef3.FormattedStringExtensions_FontSpan
+Xamarin.Forms.Platform.Android.FormattedStringExtensions+FontSpan, Xamarin.Forms.Platform.Android, Version=1.3.3.0, Culture=neutral, PublicKeyToken=null;md5d4dd78677dce656d5db26c85a3743ef3.FormattedStringExtensions_FontSpan
 Xamarin.Forms.Platform.Android.FormattedStringExtensions.FontSpan;md5d4dd78677dce656d5db26c85a3743ef3.FormattedStringExtensions_FontSpan
 xamarin.forms.platform.android.FormattedStringExtensions_FontSpan;md5d4dd78677dce656d5db26c85a3743ef3.FormattedStringExtensions_FontSpan
 Xamarin.Forms.Platform.Android.FormsTextView, Xamarin.Forms.Platform.Android;md5d4dd78677dce656d5db26c85a3743ef3.FormsTextView
@@ -239,11 +239,11 @@ Xamarin.Forms.Platform.Android.NavigationMenuRenderer, Xamarin.Forms.Platform.An
 Xamarin.Forms.Platform.Android.NavigationMenuRenderer;md5d4dd78677dce656d5db26c85a3743ef3.NavigationMenuRenderer
 xamarin.forms.platform.android.NavigationMenuRenderer;md5d4dd78677dce656d5db26c85a3743ef3.NavigationMenuRenderer
 Xamarin.Forms.Platform.Android.NavigationMenuRenderer/MenuElementView, Xamarin.Forms.Platform.Android;md5d4dd78677dce656d5db26c85a3743ef3.NavigationMenuRenderer_MenuElementView
-Xamarin.Forms.Platform.Android.NavigationMenuRenderer/MenuElementView, Xamarin.Forms.Platform.Android, Version=1.3.3.0, Culture=neutral, PublicKeyToken=null;md5d4dd78677dce656d5db26c85a3743ef3.NavigationMenuRenderer_MenuElementView
+Xamarin.Forms.Platform.Android.NavigationMenuRenderer+MenuElementView, Xamarin.Forms.Platform.Android, Version=1.3.3.0, Culture=neutral, PublicKeyToken=null;md5d4dd78677dce656d5db26c85a3743ef3.NavigationMenuRenderer_MenuElementView
 Xamarin.Forms.Platform.Android.NavigationMenuRenderer.MenuElementView;md5d4dd78677dce656d5db26c85a3743ef3.NavigationMenuRenderer_MenuElementView
 xamarin.forms.platform.android.NavigationMenuRenderer_MenuElementView;md5d4dd78677dce656d5db26c85a3743ef3.NavigationMenuRenderer_MenuElementView
 Xamarin.Forms.Platform.Android.NavigationMenuRenderer/MenuAdapter, Xamarin.Forms.Platform.Android;md5d4dd78677dce656d5db26c85a3743ef3.NavigationMenuRenderer_MenuAdapter
-Xamarin.Forms.Platform.Android.NavigationMenuRenderer/MenuAdapter, Xamarin.Forms.Platform.Android, Version=1.3.3.0, Culture=neutral, PublicKeyToken=null;md5d4dd78677dce656d5db26c85a3743ef3.NavigationMenuRenderer_MenuAdapter
+Xamarin.Forms.Platform.Android.NavigationMenuRenderer+MenuAdapter, Xamarin.Forms.Platform.Android, Version=1.3.3.0, Culture=neutral, PublicKeyToken=null;md5d4dd78677dce656d5db26c85a3743ef3.NavigationMenuRenderer_MenuAdapter
 Xamarin.Forms.Platform.Android.NavigationMenuRenderer.MenuAdapter;md5d4dd78677dce656d5db26c85a3743ef3.NavigationMenuRenderer_MenuAdapter
 xamarin.forms.platform.android.NavigationMenuRenderer_MenuAdapter;md5d4dd78677dce656d5db26c85a3743ef3.NavigationMenuRenderer_MenuAdapter
 Xamarin.Forms.Platform.Android.GenericAnimatorListener, Xamarin.Forms.Platform.Android;md5d4dd78677dce656d5db26c85a3743ef3.GenericAnimatorListener
@@ -263,7 +263,7 @@ Xamarin.Forms.Platform.Android.OpenGLRenderer, Xamarin.Forms.Platform.Android, V
 Xamarin.Forms.Platform.Android.OpenGLRenderer;md5d4dd78677dce656d5db26c85a3743ef3.OpenGLRenderer
 xamarin.forms.platform.android.OpenGLRenderer;md5d4dd78677dce656d5db26c85a3743ef3.OpenGLRenderer
 Xamarin.Forms.Platform.Android.OpenGLRenderer/Renderer, Xamarin.Forms.Platform.Android;md5d4dd78677dce656d5db26c85a3743ef3.OpenGLRenderer_Renderer
-Xamarin.Forms.Platform.Android.OpenGLRenderer/Renderer, Xamarin.Forms.Platform.Android, Version=1.3.3.0, Culture=neutral, PublicKeyToken=null;md5d4dd78677dce656d5db26c85a3743ef3.OpenGLRenderer_Renderer
+Xamarin.Forms.Platform.Android.OpenGLRenderer+Renderer, Xamarin.Forms.Platform.Android, Version=1.3.3.0, Culture=neutral, PublicKeyToken=null;md5d4dd78677dce656d5db26c85a3743ef3.OpenGLRenderer_Renderer
 Xamarin.Forms.Platform.Android.OpenGLRenderer.Renderer;md5d4dd78677dce656d5db26c85a3743ef3.OpenGLRenderer_Renderer
 xamarin.forms.platform.android.OpenGLRenderer_Renderer;md5d4dd78677dce656d5db26c85a3743ef3.OpenGLRenderer_Renderer
 Xamarin.Forms.Platform.Android.PageContainer, Xamarin.Forms.Platform.Android;md5d4dd78677dce656d5db26c85a3743ef3.PageContainer
@@ -303,7 +303,7 @@ Xamarin.Forms.Platform.Android.StepperRenderer, Xamarin.Forms.Platform.Android, 
 Xamarin.Forms.Platform.Android.StepperRenderer;md5d4dd78677dce656d5db26c85a3743ef3.StepperRenderer
 xamarin.forms.platform.android.StepperRenderer;md5d4dd78677dce656d5db26c85a3743ef3.StepperRenderer
 Xamarin.Forms.Platform.Android.StepperRenderer/StepperListener, Xamarin.Forms.Platform.Android;md5d4dd78677dce656d5db26c85a3743ef3.StepperRenderer_StepperListener
-Xamarin.Forms.Platform.Android.StepperRenderer/StepperListener, Xamarin.Forms.Platform.Android, Version=1.3.3.0, Culture=neutral, PublicKeyToken=null;md5d4dd78677dce656d5db26c85a3743ef3.StepperRenderer_StepperListener
+Xamarin.Forms.Platform.Android.StepperRenderer+StepperListener, Xamarin.Forms.Platform.Android, Version=1.3.3.0, Culture=neutral, PublicKeyToken=null;md5d4dd78677dce656d5db26c85a3743ef3.StepperRenderer_StepperListener
 Xamarin.Forms.Platform.Android.StepperRenderer.StepperListener;md5d4dd78677dce656d5db26c85a3743ef3.StepperRenderer_StepperListener
 xamarin.forms.platform.android.StepperRenderer_StepperListener;md5d4dd78677dce656d5db26c85a3743ef3.StepperRenderer_StepperListener
 Xamarin.Forms.Platform.Android.SwitchRenderer, Xamarin.Forms.Platform.Android;md5d4dd78677dce656d5db26c85a3743ef3.SwitchRenderer
@@ -327,7 +327,7 @@ Xamarin.Forms.Platform.Android.TimePickerRenderer, Xamarin.Forms.Platform.Androi
 Xamarin.Forms.Platform.Android.TimePickerRenderer;md5d4dd78677dce656d5db26c85a3743ef3.TimePickerRenderer
 xamarin.forms.platform.android.TimePickerRenderer;md5d4dd78677dce656d5db26c85a3743ef3.TimePickerRenderer
 Xamarin.Forms.Platform.Android.TimePickerRenderer/TimePickerListener, Xamarin.Forms.Platform.Android;md5d4dd78677dce656d5db26c85a3743ef3.TimePickerRenderer_TimePickerListener
-Xamarin.Forms.Platform.Android.TimePickerRenderer/TimePickerListener, Xamarin.Forms.Platform.Android, Version=1.3.3.0, Culture=neutral, PublicKeyToken=null;md5d4dd78677dce656d5db26c85a3743ef3.TimePickerRenderer_TimePickerListener
+Xamarin.Forms.Platform.Android.TimePickerRenderer+TimePickerListener, Xamarin.Forms.Platform.Android, Version=1.3.3.0, Culture=neutral, PublicKeyToken=null;md5d4dd78677dce656d5db26c85a3743ef3.TimePickerRenderer_TimePickerListener
 Xamarin.Forms.Platform.Android.TimePickerRenderer.TimePickerListener;md5d4dd78677dce656d5db26c85a3743ef3.TimePickerRenderer_TimePickerListener
 xamarin.forms.platform.android.TimePickerRenderer_TimePickerListener;md5d4dd78677dce656d5db26c85a3743ef3.TimePickerRenderer_TimePickerListener
 Xamarin.Forms.Platform.Android.ToolbarRenderer, Xamarin.Forms.Platform.Android;md5d4dd78677dce656d5db26c85a3743ef3.ToolbarRenderer
@@ -347,11 +347,11 @@ Xamarin.Forms.Platform.Android.WebViewRenderer, Xamarin.Forms.Platform.Android, 
 Xamarin.Forms.Platform.Android.WebViewRenderer;md5d4dd78677dce656d5db26c85a3743ef3.WebViewRenderer
 xamarin.forms.platform.android.WebViewRenderer;md5d4dd78677dce656d5db26c85a3743ef3.WebViewRenderer
 Xamarin.Forms.Platform.Android.WebViewRenderer/WebClient, Xamarin.Forms.Platform.Android;md5d4dd78677dce656d5db26c85a3743ef3.WebViewRenderer_WebClient
-Xamarin.Forms.Platform.Android.WebViewRenderer/WebClient, Xamarin.Forms.Platform.Android, Version=1.3.3.0, Culture=neutral, PublicKeyToken=null;md5d4dd78677dce656d5db26c85a3743ef3.WebViewRenderer_WebClient
+Xamarin.Forms.Platform.Android.WebViewRenderer+WebClient, Xamarin.Forms.Platform.Android, Version=1.3.3.0, Culture=neutral, PublicKeyToken=null;md5d4dd78677dce656d5db26c85a3743ef3.WebViewRenderer_WebClient
 Xamarin.Forms.Platform.Android.WebViewRenderer.WebClient;md5d4dd78677dce656d5db26c85a3743ef3.WebViewRenderer_WebClient
 xamarin.forms.platform.android.WebViewRenderer_WebClient;md5d4dd78677dce656d5db26c85a3743ef3.WebViewRenderer_WebClient
 Xamarin.Forms.Platform.Android.VisualElementTracker/AttachTracker, Xamarin.Forms.Platform.Android;md5d4dd78677dce656d5db26c85a3743ef3.VisualElementTracker_AttachTracker
-Xamarin.Forms.Platform.Android.VisualElementTracker/AttachTracker, Xamarin.Forms.Platform.Android, Version=1.3.3.0, Culture=neutral, PublicKeyToken=null;md5d4dd78677dce656d5db26c85a3743ef3.VisualElementTracker_AttachTracker
+Xamarin.Forms.Platform.Android.VisualElementTracker+AttachTracker, Xamarin.Forms.Platform.Android, Version=1.3.3.0, Culture=neutral, PublicKeyToken=null;md5d4dd78677dce656d5db26c85a3743ef3.VisualElementTracker_AttachTracker
 Xamarin.Forms.Platform.Android.VisualElementTracker.AttachTracker;md5d4dd78677dce656d5db26c85a3743ef3.VisualElementTracker_AttachTracker
 xamarin.forms.platform.android.VisualElementTracker_AttachTracker;md5d4dd78677dce656d5db26c85a3743ef3.VisualElementTracker_AttachTracker
 Xamarin.Forms.Platform.Android.PickerRenderer, Xamarin.Forms.Platform.Android;md5d4dd78677dce656d5db26c85a3743ef3.PickerRenderer
@@ -359,6 +359,6 @@ Xamarin.Forms.Platform.Android.PickerRenderer, Xamarin.Forms.Platform.Android, V
 Xamarin.Forms.Platform.Android.PickerRenderer;md5d4dd78677dce656d5db26c85a3743ef3.PickerRenderer
 xamarin.forms.platform.android.PickerRenderer;md5d4dd78677dce656d5db26c85a3743ef3.PickerRenderer
 Xamarin.Forms.Platform.Android.PickerRenderer/PickerListener, Xamarin.Forms.Platform.Android;md5d4dd78677dce656d5db26c85a3743ef3.PickerRenderer_PickerListener
-Xamarin.Forms.Platform.Android.PickerRenderer/PickerListener, Xamarin.Forms.Platform.Android, Version=1.3.3.0, Culture=neutral, PublicKeyToken=null;md5d4dd78677dce656d5db26c85a3743ef3.PickerRenderer_PickerListener
+Xamarin.Forms.Platform.Android.PickerRenderer+PickerListener, Xamarin.Forms.Platform.Android, Version=1.3.3.0, Culture=neutral, PublicKeyToken=null;md5d4dd78677dce656d5db26c85a3743ef3.PickerRenderer_PickerListener
 Xamarin.Forms.Platform.Android.PickerRenderer.PickerListener;md5d4dd78677dce656d5db26c85a3743ef3.PickerRenderer_PickerListener
 xamarin.forms.platform.android.PickerRenderer_PickerListener;md5d4dd78677dce656d5db26c85a3743ef3.PickerRenderer_PickerListener

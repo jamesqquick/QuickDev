@@ -14,7 +14,7 @@ public class WebAuthenticatorActivity_Client
 			"n_onPageFinished:(Landroid/webkit/WebView;Ljava/lang/String;)V:GetOnPageFinished_Landroid_webkit_WebView_Ljava_lang_String_Handler\n" +
 			"n_onReceivedSslError:(Landroid/webkit/WebView;Landroid/webkit/SslErrorHandler;Landroid/net/http/SslError;)V:GetOnReceivedSslError_Landroid_webkit_WebView_Landroid_webkit_SslErrorHandler_Landroid_net_http_SslError_Handler\n" +
 			"";
-		mono.android.Runtime.register ("Xamarin.Auth._MobileServices.WebAuthenticatorActivity/Client, Microsoft.WindowsAzure.Mobile.Ext, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35", WebAuthenticatorActivity_Client.class, __md_methods);
+		mono.android.Runtime.register ("Xamarin.Auth._MobileServices.WebAuthenticatorActivity+Client, Microsoft.WindowsAzure.Mobile.Ext, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35", WebAuthenticatorActivity_Client.class, __md_methods);
 	}
 
 
@@ -22,14 +22,14 @@ public class WebAuthenticatorActivity_Client
 	{
 		super ();
 		if (getClass () == WebAuthenticatorActivity_Client.class)
-			mono.android.TypeManager.Activate ("Xamarin.Auth._MobileServices.WebAuthenticatorActivity/Client, Microsoft.WindowsAzure.Mobile.Ext, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35", "", this, new java.lang.Object[] {  });
+			mono.android.TypeManager.Activate ("Xamarin.Auth._MobileServices.WebAuthenticatorActivity+Client, Microsoft.WindowsAzure.Mobile.Ext, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35", "", this, new java.lang.Object[] {  });
 	}
 
 	public WebAuthenticatorActivity_Client (md56fe4ce61dba0ba6ccd099078d75ab71d.WebAuthenticatorActivity p0) throws java.lang.Throwable
 	{
 		super ();
 		if (getClass () == WebAuthenticatorActivity_Client.class)
-			mono.android.TypeManager.Activate ("Xamarin.Auth._MobileServices.WebAuthenticatorActivity/Client, Microsoft.WindowsAzure.Mobile.Ext, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35", "Xamarin.Auth._MobileServices.WebAuthenticatorActivity, Microsoft.WindowsAzure.Mobile.Ext, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35", this, new java.lang.Object[] { p0 });
+			mono.android.TypeManager.Activate ("Xamarin.Auth._MobileServices.WebAuthenticatorActivity+Client, Microsoft.WindowsAzure.Mobile.Ext, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35", "Xamarin.Auth._MobileServices.WebAuthenticatorActivity, Microsoft.WindowsAzure.Mobile.Ext, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35", this, new java.lang.Object[] { p0 });
 	}
 
 
