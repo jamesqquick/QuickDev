@@ -1,6 +1,24 @@
 ﻿<Properties StartupItem="Xamarin-Part3/Xamarin_Part3.iOS/Xamarin_Part3.iOS.csproj">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone6s.9.0" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Xamarin-Part3/Xamarin_Part3/Home.cs">
+    <Files>
+      <File FileName="Xamarin-Part3/Xamarin_Part3/App.cs" Line="12" Column="3" />
+      <File FileName="Xamarin-Part3/Xamarin_Part3.iOS/AppDelegate.cs" Line="16" Column="5" />
+      <File FileName="Xamarin-Part3/Xamarin_Part3/Home.cs" Line="58" Column="53" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Xamarin-Part3" expanded="True">
+            <Node name="Xamarin_Part3" expanded="True" />
+            <Node name="Xamarin_Part3.iOS" expanded="True">
+              <Node name="Packages" expanded="True" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

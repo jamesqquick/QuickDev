@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+    <HasSharedItems>true</HasSharedItems>
+    <SharedGUID>{13654DA8-BA73-45BE-A8AF-38DECD66F47B}</SharedGUID>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration">
+    <Import_RootNamespace>MobileAppAuthentication</Import_RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="$(MSBuildThisFileDirectory)MobileAppAuthentication.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Login.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)IAuthenticate.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Profile.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)TwitterUser.cs" />
+  </ItemGroup>
+</Project>
