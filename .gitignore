@@ -1,3 +1,21 @@
+Components
+packages
+Resource.designer.cs
+
+bin
+obj
+
+*.pidb
+*.userprefs
+*.swp
+*.DS_Store
+*.nib
+*.suo
+*.user
+*.pfx
+
+*_ReSharper.*/
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
