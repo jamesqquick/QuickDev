@@ -1,10 +1,10 @@
 # Version: 9.4.0.0 (xcode7.2: 7322991)
-# [first argument, ignore] # /Users/jamesquick/Desktop/MobileAppAuthentication/iOS/mtouch.exe
+# [first argument, ignore] # /Users/jamesquick/Documents/Github/QuickDev/Xamarin-Part4/iOS/mtouch.exe
 /Library/Frameworks/Xamarin.iOS.framework/Versions/9.4.0.0/bin/mtouch \
 	--cache \
-	/Users/jamesquick/Desktop/MobileAppAuthentication/iOS/obj/iPhoneSimulator/Debug/mtouch-cache \
+	/Users/jamesquick/Documents/Github/QuickDev/Xamarin-Part4/iOS/obj/iPhoneSimulator/Debug/mtouch-cache \
 	--sim \
-	/Users/jamesquick/Desktop/MobileAppAuthentication/iOS/bin/iPhoneSimulator/Debug/MobileAppAuthentication.iOS.app \
+	/Users/jamesquick/Documents/Github/QuickDev/Xamarin-Part4/iOS/bin/iPhoneSimulator/Debug/MobileAppAuthentication.iOS.app \
 	--executable \
 	MobileAppAuthentication.iOS \
 	--fastdev \
@@ -20,7 +20,7 @@
 	--new-refcount \
 	--abi=i386 \
 	--symbollist \
-	/Users/jamesquick/Desktop/MobileAppAuthentication/iOS/obj/iPhoneSimulator/Debug/mtouch-symbols.list \
+	/Users/jamesquick/Documents/Github/QuickDev/Xamarin-Part4/iOS/obj/iPhoneSimulator/Debug/mtouch-symbols.list \
 	--dsym=no \
 	-r \
 	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.dll \
@@ -29,25 +29,25 @@
 	-r \
 	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Xamarin.iOS.dll \
 	-r \
-	/Users/jamesquick/Desktop/MobileAppAuthentication/packages/Xamarin.Insights.1.10.6/lib/Xamarin.iOS10/Xamarin.Insights.dll \
+	/Users/jamesquick/Documents/Github/QuickDev/Xamarin-Part4/packages/Xamarin.Insights.1.10.6/lib/Xamarin.iOS10/Xamarin.Insights.dll \
 	-r \
-	/Users/jamesquick/Desktop/MobileAppAuthentication/packages/Xamarin.Insights.1.10.6/lib/Xamarin.iOS10/PLCrashReporterUnifiedBinding.dll \
+	/Users/jamesquick/Documents/Github/QuickDev/Xamarin-Part4/packages/Xamarin.Insights.1.10.6/lib/Xamarin.iOS10/PLCrashReporterUnifiedBinding.dll \
 	-r \
-	/Users/jamesquick/Desktop/MobileAppAuthentication/packages/Xamarin.Forms.1.3.5.6335/lib/Xamarin.iOS10/Xamarin.Forms.Platform.iOS.dll \
+	/Users/jamesquick/Documents/Github/QuickDev/Xamarin-Part4/packages/Xamarin.Forms.1.3.5.6335/lib/Xamarin.iOS10/Xamarin.Forms.Platform.iOS.dll \
 	-r \
-	/Users/jamesquick/Desktop/MobileAppAuthentication/packages/Xamarin.Forms.1.3.5.6335/lib/Xamarin.iOS10/Xamarin.Forms.Core.dll \
+	/Users/jamesquick/Documents/Github/QuickDev/Xamarin-Part4/packages/Xamarin.Forms.1.3.5.6335/lib/Xamarin.iOS10/Xamarin.Forms.Core.dll \
 	-r \
-	/Users/jamesquick/Desktop/MobileAppAuthentication/packages/Xamarin.Forms.1.3.5.6335/lib/Xamarin.iOS10/Xamarin.Forms.Xaml.dll \
+	/Users/jamesquick/Documents/Github/QuickDev/Xamarin-Part4/packages/Xamarin.Forms.1.3.5.6335/lib/Xamarin.iOS10/Xamarin.Forms.Xaml.dll \
 	-r \
-	/Users/jamesquick/Desktop/MobileAppAuthentication/packages/Newtonsoft.Json.6.0.4/lib/portable-net45+wp80+win8+wpa81/Newtonsoft.Json.dll \
+	/Users/jamesquick/Documents/Github/QuickDev/Xamarin-Part4/packages/Newtonsoft.Json.6.0.4/lib/portable-net45+wp80+win8+wpa81/Newtonsoft.Json.dll \
 	-r \
-	/Users/jamesquick/Desktop/MobileAppAuthentication/packages/Microsoft.Net.Http.2.2.29/lib/Xamarin.iOS10/System.Net.Http.Primitives.dll \
+	/Users/jamesquick/Documents/Github/QuickDev/Xamarin-Part4/packages/Microsoft.Net.Http.2.2.29/lib/Xamarin.iOS10/System.Net.Http.Primitives.dll \
 	-r \
-	/Users/jamesquick/Desktop/MobileAppAuthentication/packages/Microsoft.Net.Http.2.2.29/lib/Xamarin.iOS10/System.Net.Http.Extensions.dll \
+	/Users/jamesquick/Documents/Github/QuickDev/Xamarin-Part4/packages/Microsoft.Net.Http.2.2.29/lib/Xamarin.iOS10/System.Net.Http.Extensions.dll \
 	-r \
-	/Users/jamesquick/Desktop/MobileAppAuthentication/packages/Microsoft.Azure.Mobile.Client.2.0.1/lib/Xamarin.iOS10/Microsoft.WindowsAzure.Mobile.dll \
+	/Users/jamesquick/Documents/Github/QuickDev/Xamarin-Part4/packages/Microsoft.Azure.Mobile.Client.2.0.1/lib/Xamarin.iOS10/Microsoft.WindowsAzure.Mobile.dll \
 	-r \
-	/Users/jamesquick/Desktop/MobileAppAuthentication/packages/Microsoft.Azure.Mobile.Client.2.0.1/lib/Xamarin.iOS10/Microsoft.WindowsAzure.Mobile.Ext.dll \
+	/Users/jamesquick/Documents/Github/QuickDev/Xamarin-Part4/packages/Microsoft.Azure.Mobile.Client.2.0.1/lib/Xamarin.iOS10/Microsoft.WindowsAzure.Mobile.Ext.dll \
 	-r \
 	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Net.Http.dll \
 	-r \
@@ -147,25 +147,25 @@
 	-r \
 	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Facades/System.Xml.XmlSerializer.dll \
 	-r \
-	/Users/jamesquick/Desktop/MobileAppAuthentication/packages/Xamarin.Insights.1.10.6/lib/Xamarin.iOS10/Xamarin.Insights.dll \
+	/Users/jamesquick/Documents/Github/QuickDev/Xamarin-Part4/packages/Xamarin.Insights.1.10.6/lib/Xamarin.iOS10/Xamarin.Insights.dll \
 	-r \
-	/Users/jamesquick/Desktop/MobileAppAuthentication/packages/Xamarin.Insights.1.10.6/lib/Xamarin.iOS10/PLCrashReporterUnifiedBinding.dll \
+	/Users/jamesquick/Documents/Github/QuickDev/Xamarin-Part4/packages/Xamarin.Insights.1.10.6/lib/Xamarin.iOS10/PLCrashReporterUnifiedBinding.dll \
 	-r \
-	/Users/jamesquick/Desktop/MobileAppAuthentication/packages/Xamarin.Forms.1.3.5.6335/lib/Xamarin.iOS10/Xamarin.Forms.Platform.iOS.dll \
+	/Users/jamesquick/Documents/Github/QuickDev/Xamarin-Part4/packages/Xamarin.Forms.1.3.5.6335/lib/Xamarin.iOS10/Xamarin.Forms.Platform.iOS.dll \
 	-r \
-	/Users/jamesquick/Desktop/MobileAppAuthentication/packages/Xamarin.Forms.1.3.5.6335/lib/Xamarin.iOS10/Xamarin.Forms.Core.dll \
+	/Users/jamesquick/Documents/Github/QuickDev/Xamarin-Part4/packages/Xamarin.Forms.1.3.5.6335/lib/Xamarin.iOS10/Xamarin.Forms.Core.dll \
 	-r \
-	/Users/jamesquick/Desktop/MobileAppAuthentication/packages/Xamarin.Forms.1.3.5.6335/lib/Xamarin.iOS10/Xamarin.Forms.Xaml.dll \
+	/Users/jamesquick/Documents/Github/QuickDev/Xamarin-Part4/packages/Xamarin.Forms.1.3.5.6335/lib/Xamarin.iOS10/Xamarin.Forms.Xaml.dll \
 	-r \
-	/Users/jamesquick/Desktop/MobileAppAuthentication/packages/Newtonsoft.Json.6.0.4/lib/portable-net45+wp80+win8+wpa81/Newtonsoft.Json.dll \
+	/Users/jamesquick/Documents/Github/QuickDev/Xamarin-Part4/packages/Newtonsoft.Json.6.0.4/lib/portable-net45+wp80+win8+wpa81/Newtonsoft.Json.dll \
 	-r \
-	/Users/jamesquick/Desktop/MobileAppAuthentication/packages/Microsoft.Net.Http.2.2.29/lib/Xamarin.iOS10/System.Net.Http.Primitives.dll \
+	/Users/jamesquick/Documents/Github/QuickDev/Xamarin-Part4/packages/Microsoft.Net.Http.2.2.29/lib/Xamarin.iOS10/System.Net.Http.Primitives.dll \
 	-r \
-	/Users/jamesquick/Desktop/MobileAppAuthentication/packages/Microsoft.Net.Http.2.2.29/lib/Xamarin.iOS10/System.Net.Http.Extensions.dll \
+	/Users/jamesquick/Documents/Github/QuickDev/Xamarin-Part4/packages/Microsoft.Net.Http.2.2.29/lib/Xamarin.iOS10/System.Net.Http.Extensions.dll \
 	-r \
-	/Users/jamesquick/Desktop/MobileAppAuthentication/packages/Microsoft.Azure.Mobile.Client.2.0.1/lib/Xamarin.iOS10/Microsoft.WindowsAzure.Mobile.dll \
+	/Users/jamesquick/Documents/Github/QuickDev/Xamarin-Part4/packages/Microsoft.Azure.Mobile.Client.2.0.1/lib/Xamarin.iOS10/Microsoft.WindowsAzure.Mobile.dll \
 	-r \
-	/Users/jamesquick/Desktop/MobileAppAuthentication/packages/Microsoft.Azure.Mobile.Client.2.0.1/lib/Xamarin.iOS10/Microsoft.WindowsAzure.Mobile.Ext.dll \
+	/Users/jamesquick/Documents/Github/QuickDev/Xamarin-Part4/packages/Microsoft.Azure.Mobile.Client.2.0.1/lib/Xamarin.iOS10/Microsoft.WindowsAzure.Mobile.Ext.dll \
 	--target-framework \
 	"Xamarin.iOS,v1.0" \
-	/Users/jamesquick/Desktop/MobileAppAuthentication/iOS/bin/iPhoneSimulator/Debug//MobileAppAuthentication.iOS.exe \
+	/Users/jamesquick/Documents/Github/QuickDev/Xamarin-Part4/iOS/bin/iPhoneSimulator/Debug//MobileAppAuthentication.iOS.exe \

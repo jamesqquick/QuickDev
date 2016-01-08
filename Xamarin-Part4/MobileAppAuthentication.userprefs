@@ -1,1 +1,18 @@
-﻿<Properties StartupItem="Droid/MobileAppAuthentication.Droid.csproj" />
+﻿<Properties StartupItem="iOS/MobileAppAuthentication.iOS.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone6s.9.2" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MobileAppAuthentication/Profile.cs">
+    <Files>
+      <File FileName="MobileAppAuthentication/Profile.cs" Line="88" Column="5" />
+      <File FileName="MobileAppAuthentication/Login.cs" Line="1" Column="1" />
+      <File FileName="MobileAppAuthentication/MobileAppAuthentication.cs" Line="1" Column="1" />
+      <File FileName="Droid/AuthenticateAndroid.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/jamesquick/Documents/Github/QuickDev/Xamarin-Part4/MobileAppAuthentication/Profile.cs" line="76" column="1" />
+      <Breakpoint file="/Users/jamesquick/Documents/Github/QuickDev/Xamarin-Part4/MobileAppAuthentication/Profile.cs" line="75" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
