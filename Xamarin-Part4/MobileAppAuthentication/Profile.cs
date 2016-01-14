@@ -68,22 +68,23 @@ namespace MobileAppAuthentication
 
 		protected async override void OnAppearing()
 		{
-			string id = App.MobileService.CurrentUser.UserId;
+			var id = App.MobileService.CurrentUser.UserId;
 			switch (authenticationProvider) {
 			case "twitter":
 				//Need to implement backend API
-				/**JToken response = await App.MobileService.InvokeApiAsync<JToken>("authenticationprofile",HttpMethod.Get,null);
+				JToken response = await App.MobileService.InvokeApiAsync<JToken> ("authenticationprofile", HttpMethod.Get, null);
+				string r = response.ToString ();
 				TwitterUser Twitterprofile = JsonConvert.DeserializeObject<TwitterUser>(response.ToString());
 				username.Text = Twitterprofile.screen_name;
 				location.Text = Twitterprofile.location;
 				description.Text = Twitterprofile.description;
 				profile.Source = Twitterprofile.profile_image_url;
-				break; */
+				break; 
 			case "microsoft":
 				break;
 			case "google":
 				break;
-			case "facebook":
+			case "facebook": 
 				break;
 			}
 			

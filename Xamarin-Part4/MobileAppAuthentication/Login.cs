@@ -20,6 +20,7 @@ namespace MobileAppAuthentication
 				VerticalOptions = LayoutOptions.StartAndExpand,
 				Image =  "twitterlogin.PNG"
 			};
+
 			twitterLogin.Clicked+= async (sender, e) => {
 				loginAsync (MobileServiceAuthenticationProvider.Twitter);
 			};
