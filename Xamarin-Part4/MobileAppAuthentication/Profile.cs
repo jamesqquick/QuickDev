@@ -69,6 +69,7 @@ namespace MobileAppAuthentication
 		protected async override void OnAppearing()
 		{
 			var id = App.MobileService.CurrentUser.UserId;
+			App.MobileService.CurrentUser.MobileServiceAuthenticationToken;
 			switch (authenticationProvider) {
 			case "twitter":
 				//Need to implement backend API
